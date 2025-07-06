@@ -117,7 +117,7 @@ h1 span {
 }
 
 
-/* Ícono flotante WhatsApp */
+
 .whatsapp {
   position: fixed;
   bottom: 20px;
@@ -131,7 +131,7 @@ h1 span {
   height: auto;
 }
 
-/* Imagen mockup flotante */
+
 .mockup-flotante {
   position: fixed;
   bottom: 100px;
